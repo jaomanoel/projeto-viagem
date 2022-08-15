@@ -130,11 +130,6 @@ body{
     
     
     /* Segunda */
-    main .mid{
-        display: block;
-        margin: 0 auto;
-        width: 70rem;
-    }
     
     main .segunda{
         display: block;
@@ -147,13 +142,13 @@ body{
         font-size: 2rem;
         padding-top: 5rem;
         padding-bottom: 1rem;
-        margin-left: 2.5rem;
+        margin-left: 3.8rem;
     }
     
     main .segunda > p{
         padding-bottom: 0.4rem;
         font-size: 1.3rem;
-        margin-left: 2.5rem;
+        margin-left: 3.8rem;
     }
     
     main .segunda span{
@@ -181,13 +176,13 @@ body{
     main .segunda .img1{
         background: black url("imagens/cinqueterre.jpg") no-repeat center/cover;
         height: 20rem;
-        width: 45rem;
+        width: 32.5rem;
         margin-bottom: 1rem;
     }
     
     main .segunda .container-imagem{
         display: block;
-        margin: auto;
+        margin: 0 auto;
     }
     
     main .segunda .container-imagem div{
@@ -198,25 +193,25 @@ body{
     main .segunda .img2{
         background: black url("imagens/newyork.jpg") no-repeat center/cover;
         height: 20rem;
-        width: 45rem;
+        width: 32.5rem;
     }
     
     main .segunda .img3{
         background: black url("imagens/sanfran.jpg") no-repeat center/cover;
         height: 20rem;
-        width: 45rem;
+        width: 32.5rem;
     }
     
     main .segunda .img4{
         background: black url("imagens/pisa.jpg") no-repeat center/cover;
         height: 20rem;
-        width: 45rem;
+        width: 32.5rem;
     }
     
     main .segunda .img5{
         background: black url("imagens/paris.jpg") no-repeat center/cover;
         height: 20rem;
-        width: 45rem;
+        width: 32.5rem;
     }
     
     /* Terceira */
@@ -231,7 +226,7 @@ body{
     main .terceira > h2{
         font-size: 1.6rem;
         padding: 2rem 0;
-        margin-left: 3rem;
+        margin-left: 3.8rem;
     }
 
     main .terceira h2{
@@ -243,7 +238,7 @@ body{
         padding-bottom: 1rem;
         font-size: 1.3rem;
         padding: 1rem;
-        margin-left: 2rem;
+        margin-left: 2.8rem;
     }
 
     main .terceira p{
@@ -261,7 +256,7 @@ body{
     }
     
     main .terceira img{
-        width: 45rem;
+        width: 32.5rem;
     }
     
     main .terceira .ocean, .mountain{
@@ -290,14 +285,14 @@ body{
         margin: 0 auto;
         background-color: gray;
         color: white;
-        height: 20rem;
-        width: 45rem;
+        height: 21rem;
+        width: 32.5rem;
     }
     
     main .quarta h1{
         padding: 2rem 0;
         padding-left: 1rem;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
     
     main .quarta > p{
@@ -332,7 +327,7 @@ body{
     main .quinta{
         display: block;
         margin: 0 auto;
-        width: 45rem;
+        width: 32.5rem;
         background-color: whitesmoke;
         padding: 2rem 3rem;
 
