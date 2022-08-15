@@ -1354,11 +1354,11 @@ body{
         justify-content: center;
         align-items: center;
         width: 100rem;
-        gap: 2rem;
+        gap: 3rem;
     }
     
     main .terceira img{
-        width: 49rem;
+        width: 48.9rem;
     }
     
     main .terceira .ocean, .mountain{
@@ -1382,7 +1382,7 @@ body{
     
     main .quarta{
         display: block;
-        margin: auto;
+        margin: 0 auto;
         background-color: gray;
         color: white;
         height: 20rem;
