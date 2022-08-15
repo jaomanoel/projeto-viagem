@@ -985,6 +985,9 @@ body{
     
 
     main .terceira{
+        display: block;
+        margin: 0 auto;
+        width: 70rem;
         height: 40rem;
     }
 
@@ -1328,6 +1331,12 @@ body{
     }
     
     /* Terceira */
+
+    main .terceira{
+        display: block;
+        margin: 0 auto;
+        width: 106rem;
+    }
     
     main .terceira h2{
         font-size: 1.6rem;
